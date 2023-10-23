@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    cout<<"Thong bao1";
+    cout<<"Thong bao dau tien";
 
     return 0;
 }
